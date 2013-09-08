@@ -1,4 +1,12 @@
 Watermark images with php
 =============
 
-php script to generate watermark on images
+Version 1.0
+
+PHP script to generate watermark on images.
+
+http://www.pedroventura.com/php/crear-marcas-de-agua-con-php/
+
+Feel free to improve this code
+
+
