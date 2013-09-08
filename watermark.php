@@ -10,7 +10,7 @@
 */
 
 // project root. You must change this
-define('BASE_DIR','H:\Trabajo\Proyectos_Web\watermark-php/');
+define('BASE_DIR','YOUR/PROJECT/ROOT/PATH');
 
 // define your custom watermak image
 define ('WATERMARK_IMAGE', BASE_DIR . 'assets/watermark-images/agotado_trans.png');
